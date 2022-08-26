@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.rounded-tl-lg-c {
+   border-top-left-radius: 1.5625rem;
+}
+
+.rounded-tr-lg-c {
+   border-top-right-radius: 1.5625rem;
+}
+
+.rounded-bl-lg-c {
+   border-bottom-left-radius: 1.5625rem;
+}
+
+.rounded-br-lg-c {
+   border-bottom-right-radius: 1.5625rem;
+}
